@@ -49,7 +49,6 @@ A framework that easily allows launch of a sidechain on nervos network.
 Support for next-generation mining communication protocol Stratum V2 and the automation of mining pool software deployment.
 -   [Grant Proposal](https://talk.nervos.org/t/insight-automated-stratum-v2-mining-pool-for-nervos/4870)
 -   [Approved Oct 31st 2020](https://medium.com/nervosnetwork/grant-approved-advanced-ckb-mining-infrastructure-with-insight-956146955dc5)
-- 
 
 ## [BlockABC](https://abcwallet.com/) - CKB SDK and Web Auth ([GitHub](https://github.com/BlockABC))
 One Chain CKB is an SDK designed by the BlockABC team to solve the Nervos CKB chain compatibility in wallet development based on  [ckb-sdk-js](https://github.com/nervosnetwork/ckb-sdk-js).
