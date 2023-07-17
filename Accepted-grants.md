@@ -4,7 +4,7 @@
 This page provides an overview of accepted grants. Please note that not all accepted grants have completed. All grant proposals and discussion threads can be found at  [Nervos Talk](https://talk.nervos.org/c/English/grants/).
 
 ## [Summa](https://summa.one/) - Bitcoin-spv ([github](https://github.com/summa-tx/bitcoin-spv))
-Bitcoin-spv is a low-level toolkit for working with Bitcoin from CKB and other blockchains. It supplies a set of pure functions that can be used to validate almost all Bitcoin transactions and headers, as well as higher-level functions that can evaluate header chains and transaction inclusion proofs. It also supplies a standardized JSON format for proofs. Currently off-chain proof (de)serialization is supported in Golang, Python, and JS.
+Bitcoin-spv is a low-level toolkit for working with Bitcoin from CKB and other blockchains. It supplies a set of pure functions that can be used to validate almost all Bitcoin transactions and headers, as well as higher-level functions that can evaluate header chains and transaction inclusion proofs. It also supplies a standardized JSON format for proofs. Currently off-chain proof (de)serialization is supported in Golang, Python, & JS.
 
 ## [Obsidian Labs](https://www.obsidians.io/) - CKB Studio ([GitHub](https://github.com/ObsidianLabs/CKB-Studio))
 CKB Studio is an IDE to develop CKB scripts on the [Nervos](http://nervos.io/)  blockchain. It includes:
