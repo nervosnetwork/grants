@@ -7,11 +7,13 @@ BULLLLLLLLLLLL
 BULLLLLLLLLLL
 BULLLLLLLLLLL
 
+<br>
 
 **Time**
 
 Aug 21st - Sept 3rd
 
+<br>
 
 **Prizes (in CKB)**
 
@@ -26,6 +28,7 @@ $100 for 2 more that submit
 
 [Sign up now!](https://docs.google.com/forms/d/1nCK7_ig6WjvK96C9yWewuvJjc-vuKahPlbLI_lmKSTs/edit#responses)
 
+<br>
 
 **Description**
 
@@ -43,6 +46,8 @@ Hackers will be competing for a prize pool of $2000 in CKB..
 
 Join us for an exhilarating journey of innovation and discovery. Let's shape the future of blockchain technology together!
 
+<br>
+
 
 **Judges**
 
@@ -54,6 +59,7 @@ Ferran Prat, CEO, PeerSyst
 
 Adriá Carrera, CTO, PeerSyst
 
+<br>
 
 **Mentors**
 
@@ -63,6 +69,7 @@ Agustin Millan, PeerSyst
 
 Adria Carrera, PeerSyst
 
+<br>
 
 **Resources**
 
@@ -70,11 +77,13 @@ Adria Carrera, PeerSyst
 
 [CKB Cell Model explained](https://docs.nervos.org/docs/basics/concepts/cell-model/)
 
+<br>
 
 **Workshops**
 
 To be Announced!
 
+<br>
 
 **Judging Criteria**
 
@@ -88,7 +97,8 @@ The complexity of the problem being addressed, or the approach to solving it.
 
 **Design and User Experience**
 
-The user experience and flow of the project is pleasant and delightful.
+The user experience and flow of the project is pleasant and friendly.
 
+<br>
 
 [Sign up now!](https://docs.google.com/forms/d/1nCK7_ig6WjvK96C9yWewuvJjc-vuKahPlbLI_lmKSTs/edit#responses)
