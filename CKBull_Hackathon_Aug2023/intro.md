@@ -23,7 +23,7 @@ Second 375,000 CKB
 
 Third 225,000 CKB
 
-75,000 CKB for 2 more that submit projects
+75,000 CKB each for 2 more that submit projects
 
 
 [Sign up now!](https://docs.google.com/forms/d/1nCK7_ig6WjvK96C9yWewuvJjc-vuKahPlbLI_lmKSTs/edit#responses)
