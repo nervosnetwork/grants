@@ -17,13 +17,13 @@ Aug 21st - Sept 3rd
 
 **Prizes (in CKB)**
 
-First prize $1000
+First prize 750,000 CKB
 
-Second $500
+Second 375,000 CKB
 
-Third $300
+Third 225,000 CKB
 
-$100 for 2 more that submit
+75,000 CKB for 2 more that submit projects
 
 
 [Sign up now!](https://docs.google.com/forms/d/1nCK7_ig6WjvK96C9yWewuvJjc-vuKahPlbLI_lmKSTs/edit#responses)
