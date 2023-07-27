@@ -1,5 +1,5 @@
 ## CKBull Signer API Hackathon!
-
+![alt_text](images/image2.png "image_tooltip")
 ![alt_text](images/image1.png "image_tooltip")
 
 
@@ -42,7 +42,7 @@ The CKBull Signer API brings the possibilities of Nervos closer to a developerâ€
 
 Throughout the Hackathon, you'll be supported by the expertise and enthusiasm of the CKBull team, as well as the Nervos community. 
 
-Hackers will be competing for a prize pool of $2000 in CKB..  
+Hackers will be competing for a prize pool of 1.5 million CKB.  
 
 Join us for an exhilarating journey of innovation and discovery. Let's shape the future of blockchain technology together!
 
