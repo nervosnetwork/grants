@@ -102,3 +102,14 @@ The user experience and flow of the project is pleasant and friendly.
 <br>
 
 [Sign up now!](https://docs.google.com/forms/d/1nCK7_ig6WjvK96C9yWewuvJjc-vuKahPlbLI_lmKSTs/edit#responses)
+
+**Submission criteria**
+
+Please create an issue on this repo before 11:59pm on September 3rd which includes:
+
+1. **Text Description**: Include a text description that should explain the features and functionality of your Idea along with an explanation of why you chose it and what problems it would solve.
+2. **Visual Representation**: This may be in the form of a video, screenshots, figma design, or any other shareable format. The visual portion of the submission:
+   - Should take less than five (5) minutes to watch, or complete provided experience
+   - Should include how the Idea is meant to function
+   - Should include how the Idea would be used 
+   - Must be publicly visible
